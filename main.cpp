@@ -1,10 +1,9 @@
 include<iostream>
-void main{
-     showhello(
-     
-     );
+void show(){
+     std::cout<<"hello world";
      }
 
 int main{
-    return 0
+    show();
+    return 0 ;
 }
